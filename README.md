@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @nalikhanoff
-- 👀 I’m interested in node.js, react, mongodb, mysql and kubernetes
-- 🌱 I’m currently learning nestjs
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
